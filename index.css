@@ -11,6 +11,7 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 } */
 
+
 #heading {
     text-align: center;
     
@@ -26,6 +27,7 @@
 #headshot {
     border-radius: 25%;
     margin-bottom: 5px;
+    height: 250px;
 }
 
 #contact {
