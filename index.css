@@ -18,6 +18,16 @@ body {
 
 /* index.html */
 
+section {
+    background-color: aliceblue;
+    padding: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+}
+
+section:hover {
+    background-color: rgb(163, 206, 241);
+}
+
 #heading {
     text-align: center;
     margin-top: 25px;
@@ -54,9 +64,14 @@ body {
     font-weight: bold;
 }
 
-/* table, th, td {
-    border: solid;
+/* .bottom-section {
+    display: flex;
+    flex-wrap: wrap;
 } */
+
+.technical-skills {
+    flex: 30%;
+}
 
 /* proejcts.html */
 
