@@ -16,6 +16,9 @@ body {
 }
 
 
+
+/* index.html */
+
 #heading {
     text-align: center;
     margin-top: 25px;
@@ -29,6 +32,7 @@ body {
 #heading > h2 {
     margin-top: 3px;
 }
+
 #headshot {
     border-radius: 25%;
     margin-bottom: 5px;
@@ -46,9 +50,11 @@ body {
     text-align: center;
 }
 
-table, th, td {
+/* table, th, td {
     border: solid;
-}
+} */
+
+/* proejcts.html */
 
 .projects-title {
     text-align: center;
@@ -58,3 +64,14 @@ table, th, td {
     display: flex;
     flex-direction: row;
 }
+
+.card {
+    margin: 10px;
+}
+
+.table-header {
+    text-align: center;
+    margin: 20px;
+}
+
+/* note - aboutme styling in top of aboutme.html */
