@@ -36,6 +36,7 @@ body {
 #headshot {
     border-radius: 25%;
     margin-bottom: 5px;
+    box-shadow: 5px 5px 5px lightgray;
     height: 250px;
     transition-property: width, height;
     transition-duration: 0.3s;
