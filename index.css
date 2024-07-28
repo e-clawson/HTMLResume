@@ -13,9 +13,8 @@
 
 body {
     padding: 10px;
+    background-color: rgb(231, 236, 239)
 }
-
-
 
 /* index.html */
 
@@ -49,6 +48,10 @@ body {
 
 #contact {
     text-align: center;
+}
+
+.col > p {
+    font-weight: bold;
 }
 
 /* table, th, td {
