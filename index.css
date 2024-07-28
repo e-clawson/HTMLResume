@@ -13,7 +13,8 @@
 
 body {
     padding: 10px;
-    background-color: rgb(231, 236, 239)
+    background-color: rgb(231, 236, 239);
+    margin: 10px;
 }
 
 /* index.html */
@@ -67,6 +68,7 @@ section:hover {
 .bottom-section {
     display: flex;
     flex-wrap: wrap;
+    margin: 10px;
 }
 
 .technical-skills {
@@ -83,18 +85,18 @@ section:hover {
     text-align: center;
 }
 
-.cards {
-    display: flex;
-    flex-direction: row;
-}
-
-.card {
-    margin: 10px;
-}
-
 .table-header {
     text-align: center;
     margin: 20px;
 }
+
+/* .cards {
+    display: flex;
+    flex-direction: row;
+} */
+
+/* .card {
+    margin: 10px;
+} */
 
 /* note - aboutme styling in top of aboutme.html */
