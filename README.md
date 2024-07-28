@@ -1,13 +1,33 @@
+# About
 A place where I can practice my HTML and CSS skills while creating a resume 
 
-I decided to create this as extra practice during the HTML and CSS unit of my Perscholas SWE bootcamp
+I decided to create this as extra practice during the HTML and CSS unit of my Perscholas SWE bootcamp.
 
-This will grow and change - below are my planned phases for development, which will likely change as I work through the project: 
+However, I ended up using it as a starting point for my HTML/CSS Skills based assessment. 
 
-- Phase 1 - Getting the important resume information displayed on the page, and a way for me to practice adding headings, paragraphs, sections, lists, images, links, and more in HTML. I will also practice HTML Text formatting Elements in this phase, but may end up changing the styling using CSS in phase 2 
+# Requirements
+For this project we were required to create a three-page website with the following minimum requirements: 
+- 3 pages 
+- 1 table 
+- 2 forms
+- 1 dropdown menu
+- 1 of each:
+    - text
+    - images
+    - gif 
+- Inline, internal, and external styling
+- 5 different CSS selectors 
+- colors that compliment each other
+- use flexbox and/or bootstap grid 
+- at least two CSS transitions 
 
-- Phase 2 - Practicing my styling using CSS to create a better styled page that is easier to read. This phase will also likely require me to clean up my HTML code and ensure i'm using best practices so that I can best isolate parts of the page to add styling. 
+# Reflection 
 
-- Phase 3 - will be adding a menu and sections or tabs so that it is easier to read, and allows me to add more information like an about me section with more personal information/a longer about me, and sections for things like projects  
+- What could you have done differently during the planning stages of your project to make the execution easier?
 
-<!-- important note- the logo.html document is an in-class practice -->
+- Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?
+
+- What would you add to or change about your website if given more time?
+
+- Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again.
+
