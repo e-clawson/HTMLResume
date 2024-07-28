@@ -64,16 +64,20 @@ section:hover {
     font-weight: bold;
 }
 
-/* .bottom-section {
+.bottom-section {
     display: flex;
     flex-wrap: wrap;
-} */
+}
 
 .technical-skills {
     flex: 30%;
 }
 
-/* proejcts.html */
+.ed-and-work {
+    flex: 70%;
+}
+
+/* projects.html */
 
 .projects-title {
     text-align: center;
