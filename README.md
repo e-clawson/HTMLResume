@@ -6,6 +6,9 @@ I decided to create this as extra practice during the HTML and CSS unit of my Pe
 However, I ended up using it as a starting point for my HTML/CSS Skills based assessment. 
 
 # Requirements
+
+"This SBA will test your skills in creating a simple website with a clean layout and styling. Your website should have a well-developed HTML structure and follow good visual design methodologies in order to produce a satisfying user experience."
+
 For this project we were required to create a three-page website with the following minimum requirements: 
 - 3 pages 
 - 1 table 
